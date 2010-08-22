@@ -1,0 +1,6 @@
+.idea
+target
+stacktrace.log
+out
+*.iml
+.idea/workspace.xml
