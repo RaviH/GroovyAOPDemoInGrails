@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="rhasija-desktop" id="0" name="CarServiceIntegrationTest" package="com.mayabansi.demo" tests="2" time="1.001" timestamp="2010-08-22T02:24:06">
+      <properties />
+
+      <testcase classname="com.mayabansi.demo.CarServiceIntegrationTest" name="testCarServiceAOP" time="0.825" />
+
+      <testcase classname="com.mayabansi.demo.CarServiceIntegrationTest" name="testAnotherService" time="0.014" />
+
+      <system-out><![CDATA[--Output from testCarServiceAOP--
+--Output from testAnotherService--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testCarServiceAOP--
+--Output from testAnotherService--
+]]></system-err>
+
+  </testsuite>
+</testsuites>

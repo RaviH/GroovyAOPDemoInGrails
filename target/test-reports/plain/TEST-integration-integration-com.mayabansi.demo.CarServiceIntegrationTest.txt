@@ -1,0 +1,13 @@
+Testsuite: com.mayabansi.demo.CarServiceIntegrationTest
+Tests run: 2, Failures: 0, Errors: 0, Time elapsed: 1.001 sec
+------------- Standard Output ---------------
+--Output from testCarServiceAOP--
+--Output from testAnotherService--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testCarServiceAOP--
+--Output from testAnotherService--
+------------- ---------------- ---------------
+
+Testcase: testCarServiceAOP took 0.826 sec
+Testcase: testAnotherService took 0.014 sec
